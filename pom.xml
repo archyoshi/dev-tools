@@ -13,7 +13,7 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <assertj.version>3.24.2</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <com.sun.xml.ws.version>4.0.1</com.sun.xml.ws.version>
         <com.apache.poi.version>5.2.2</com.apache.poi.version>
         <lucene.version>9.3.0</lucene.version>
